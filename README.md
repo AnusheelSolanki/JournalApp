@@ -1,9 +1,5 @@
 # JournalApp
 
-## Collaborators
-- Anusheel Solanki - 2020B3A70541G (f20200541@goa.bits-pilani.ac.in)
-- Nandish Chokshi - 2020B1A72031G (f20202031@goa.bits-pilani.ac.in)
-
 ## Version of Android Studio Used
 Android Studio Giraffe|2022.3.1 Patch 1
 
