@@ -1,6 +1,6 @@
 # JournalApp
 
-## Name
+## Collaborators
 - Anusheel Solanki - 2020B3A70541G (f20200541@goa.bits-pilani.ac.in)
 - Nandish Chokshi - 2020B1A72031G (f20202031@goa.bits-pilani.ac.in)
 
